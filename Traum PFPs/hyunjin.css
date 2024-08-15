@@ -1,0 +1,41 @@
+.hyunjinprofile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 150vh;
+}
+
+.hyunjin {
+    height: 250px;
+    width: 250px;
+    overflow: hidden;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.hyunjin img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.hyunjingif {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.hygif {
+    weight: 40px;
+    height: 40px;
+    margin-inline: 5px;
+}
+
+.infohyunjin {
+    max-width: 600px; 
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
